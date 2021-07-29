@@ -1,0 +1,152 @@
+{
+  "html_attributions": [],
+  "next_page_token": "some token",
+  "results": [
+    {
+      "business_status": "OPERATIONAL",
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Nefrolepis wyniosły",
+      "botanicalName": "Nephrolepis exaltata",
+      "types": [
+        "fern",
+        "plant"
+      ],
+      "pet_friendly": true,
+      "air_cleaner": true,
+      "care_difficulty": "easy",
+      "light_level": "part-sun",
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 1",
+      "reference": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Adiantum, niekropień",
+      "botanicalName": "Adiantum capillus veneris",
+      "types": [
+        "fern",
+        "plant"
+      ],
+      "pet_friendly": true,
+      "air_cleaner": true,
+      "care_difficulty": "easy",
+      "light_level": "part-sun",
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+
+      "place_id": "some place id 1",
+      "reference": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Płaskla łosioroga, łosie rogi",
+      "botanicalName": "Platycerium alcicorne",
+      "types": [
+        "fern",
+        "plant"
+      ],
+      "pet_friendly": true,
+      "air_cleaner": true,
+      "care_difficulty": "easy",
+      "light_level": "part-sun",
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 1",
+      "reference": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Zanokcica gniazdowa",
+      "botanicalName": "Asplenium nidus",
+      "types": [
+        "fern",
+        "plant"
+      ],
+      "pet_friendly": true,
+      "air_cleaner": true,
+      "care_difficulty": "easy",
+      "light_level": "part-sun",
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 1",
+      "reference": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Ciemnotka okrągłolistna",
+      "botanicalName": "Pellaea rotundifolia",
+      "types": [
+        "fern",
+        "plant"
+      ],
+      "pet_friendly": true,
+      "air_cleaner": true,
+      "care_difficulty": "easy",
+      "light_level": "part-sun",
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 1",
+      "reference": ""
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "name": "Ciemnotka okrągłolistnaa",
+      "botanicalName": "Pellaea rotundifoliaa",
+      "types": [
+        "fern",
+        "plant"
+      ],
+      "pet_friendly": true,
+      "air_cleaner": true,
+      "care_difficulty": "easy",
+      "light_level": "part-sun",
+      "photos": [
+        {
+          "height": 0,
+          "html_attributions": [],
+          "photo_reference": "",
+          "width": 0
+        }
+      ],
+      "place_id": "some place id 1",
+      "reference": ""
+    }
+  ],
+  "status": "OK"
+}
